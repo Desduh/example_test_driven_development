@@ -1,0 +1,14 @@
+{
+  "name": "example_test_driven_development",
+  "version": "1.0.0",
+  "description": "This project implements a program that classifies a triangle based on its sides (isosceles, scalene, equilateral) and includes a suite of tests to validate various scenarios.",
+  "main": "triangle.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Carlos Eduardo Falandes",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
